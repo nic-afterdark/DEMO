@@ -3,7 +3,7 @@ This is demo for Git and Github
 
 # First Try to clone a git repo
 Step 1 : You have to inter in file by cd Look Down you are in to the folder DEMO
-
+git status
 # Terminal Commands
 git --version
 ls -> to show Files
@@ -13,3 +13,6 @@ cd -> change directory or navigate into any directory by entering file name or f
 
 ----------- ----------------
 till here we are try to change in readme file of our repo and also add a new file index.html in our repo from local machine
+
+---------
+For updating any change in repo from local computer first we have to add it then commit then lastly get push username& password = token(Which you generated)
